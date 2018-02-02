@@ -1,0 +1,22 @@
+{
+  "name": "js1k-coins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmkubik/js1k-coins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmkubik/js1k-coins/issues"
+  },
+  "homepage": "https://github.com/rmkubik/js1k-coins#readme",
+  "dependencies": {
+    "uglify-js": "^3.3.9"
+  }
+}
